@@ -11,7 +11,7 @@ Do you have any further questions? Feel free to contact me!
 
 - 👀 I’m interested in C#, Rust, Python, C++, PHP, Vue
 - 🌱 I’m currently learning Rust
-- 📫 How to reach me [Email-> hello@robertwolf.dev]
+- 📫 How to reach me [Email -> hello@robertwolf.dev]
 
 <img src="https://github-readme-stats.vercel.app/api?username=rwolfdev&show_icons=true&theme=dracula&count_private=true" alt="github stats" width="50%" align="center"/>
 
