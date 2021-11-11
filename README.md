@@ -1,25 +1,27 @@
-Hello,
+<h1 align="center">Hi 👋, I'm Robert</h1>
+<h3 align="center">I want to code a better world!</h3>
 
-my name is Robert Wolf and in my profession as a software developer I work practically with customers and service providers as well as in the planning and development area on complex database structures and software systems.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rwolfdev&label=Profile%20views&color=0e75b6&style=flat" alt="rwolfdev" /> </p>
 
-Especially in the conceptual design of applications I was able to work very successfully on individual problem solutions. Especially the development of database background processes, data logic to support applications (in the web or desktop area) and the development of REST-APIs were under my responsibility.
-Through independent, conceptual acting and good teambuilding I was able to achieve innovative development successes.
+- 🌱 I’m currently learning **Rust**
 
-I use technologies like C# (.NET Framework, .NET Core, ASP.NET, Blazor) and PHP (Laravel) to extend existing projects or create new systems.
+- 📝 I regularly write articles on [https://medium.robertwolf.dev](https://medium.robertwolf.dev)
 
-Do you have any further questions? Feel free to contact me!
+- 📫 How to reach me **hello@robertwolf.dev**
 
-- 👀 I’m interested in C#, Rust, Python, C++, PHP, Vue
-- 🌱 I’m currently learning Rust
-- 📫 How to reach me [Email -> hello@robertwolf.dev]
+- 📄 Know about my experiences [https://robertwolf.dev](https://robertwolf.dev)
 
-<img src="https://github-readme-stats.vercel.app/api?username=rwolfdev&show_icons=true&theme=dracula&count_private=true" alt="github stats" width="50%" align="center"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/8306250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8306250" height="30" width="40" /></a>
+<a href="https://instagram.com/robertwolf.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robertwolf.io" height="30" width="40" /></a>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rwolfdev&theme=dracula" width="50%" align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwolfdev&layout=compact&count_private=true&theme=dracula)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rwolfdev&show_icons=true&locale=en&layout=compact" alt="rwolfdev" /></p>
 
-<a href="https://stackexchange.com/users/11327972">
-  <img src="https://stackexchange.com/users/flair/11327972.png" width="208" height="58" align="center" alt="profile for Robert on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Robert on Stack Exchange, a network of free, community-driven Q&amp;A sites">
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rwolfdev&show_icons=true&locale=en" alt="rwolfdev" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rwolfdev&" alt="rwolfdev" /></p>
